@@ -6,7 +6,7 @@ title = "Sponsors - BRISKODA"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
-theme = "beautifulhugo"
+theme = "briskoda"
 # metaDataFormat = "yaml"
 # pygmentsUseClasses = true
 # pygmentCodeFences = true
