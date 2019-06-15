@@ -1,9 +1,12 @@
-## Front Page Content
+---
+title: "Sponsors"
+description: ""
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-/ [Hugo](https://gohugo.io) and can be built in under 1 minute.
-Literally. It uses the `beautifulhugo` theme which supports content on your front page.
-Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md`
-if you don't want any content here.
+draft: false
+menu: main
+weight: 1
+---
 
-Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+# Sponsors
+
+## Thanks to our amazing sponsors. They help make the forum and our community better.
