@@ -1,5 +1,7 @@
 # BRISKODA Sponsors
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e318bf46-e3b2-4c74-b626-1dc269ec9d60/deploy-status)](https://app.netlify.com/sites/briskoda-sponsors/deploys)
+
 The 2019 BRISKODA Sponsors minisite, using [Hugo], deployed via [Netlify]
 
 ## Building locally
