@@ -10,13 +10,13 @@ weight: 1
 </div>
 <div class="pa2 pa3-ns">
   <ul class="list center measure f4">
-    <li class="mv2 pv2 br-pill bg-briskoda-green white o-60">
+    <li class="mv2 pv2 br-pill bg-briskoda-green white o-60 ph2">
       Help us maintain one of the best forums around
     </li>
-    <li class="mv2 pv2 br-pill bg-briskoda-green white o-60">
+    <li class="mv2 pv2 br-pill bg-briskoda-green white o-60 ph2">
       Help us host fantastic meets and events
     </li>
-    <li class="mv2 pv2 br-pill bg-briskoda-green white o-60">
+    <li class="mv2 pv2 br-pill bg-briskoda-green white o-60 ph2">
       Help us build the forums community and reach
     </li>
   </ul>
