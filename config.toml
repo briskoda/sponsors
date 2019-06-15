@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
     description = "BRISKODA Forums Sponsors"
     favicon = "favicon.ico"
-    logo = "briskoda-logo.png"
+    logo = "/briskoda-logo.png"
 
 [params.copy]
     text = ""
