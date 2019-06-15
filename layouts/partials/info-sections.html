@@ -1,0 +1,8 @@
+{{ $items := (where $.Site.RegularPages "Type" "info-sections") }}
+{{ $len := (len $items) }}
+
+<div class="flex flex-colum flex-wrap">
+  {{ range $i, $e :=  sort ($items) "Params.weight" }}
+  {{ partial "info-section.html" . }}
+  {{ end}}
+</div>
